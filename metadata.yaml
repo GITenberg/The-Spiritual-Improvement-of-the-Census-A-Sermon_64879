@@ -1,11 +1,16 @@
 _repo: The-Spiritual-Improvement-of-the-Census-A-Sermon_64879
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64879-h/images/cover.jpg
 creator:
   author:
     agent_name: Baker, Robert George
     gutenberg_agent_id: '53084'
     url: http://www.gutenberg.org/2009/agents/53084
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64879#The-Spiritual-Improvement-of-the-Census-A-Sermon
 gutenberg_issued: '2021-03-20'
 gutenberg_type: Text
 identifiers:
